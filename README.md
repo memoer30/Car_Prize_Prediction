@@ -113,9 +113,7 @@ The notebook compares all models and identifies the best performing algorithm th
 Car_Prize_Prediction_Regresion/
 │
 ├── Car_Prize_Prediction_Regresion.ipynb   # Main Jupyter notebook
-├── car-sales-extended-missing-data.csv    # Dataset
 ├── README.md                              # Project documentation
-└── anaconda_projects/                     # Additional project files
 ```
 
 ## 🔑 Key Learnings
